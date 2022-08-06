@@ -1,4 +1,4 @@
-# Predict the weather 📈🌦 For Airport with Prophet
+# Data Science project - Predict the weather 📈🌦 For Airport with Prophet
 
 💬 (Boss): *alpha苏泽, I need a weather forecast for New York state*. 
 
